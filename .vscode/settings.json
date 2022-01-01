@@ -1,0 +1,13 @@
+{
+  "javascript.format.enable": false,
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.organizeImports": true
+  },
+  "editor.tabSize": 2,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "typescript.tsdk": "node_modules\\typescript\\lib",
+  "files.insertFinalNewline": true,
+  "solidity.compileUsingRemoteVersion": "v0.8.10+commit.11564f7e"
+}
